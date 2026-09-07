@@ -1,7 +1,7 @@
 
-# 2026 Bat Noncoding Project
+# Bat Noncoding Project
 
-Code and scripts repository for 2026_bat_noncoding paper
+Code and scripts repository for bat_noncoding paper
 
 
 
